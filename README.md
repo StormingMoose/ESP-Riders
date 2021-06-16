@@ -10,4 +10,5 @@ Parts required:
                  small 9g servo.      
                  USB charging block with two outputs.    
                  buck converter if you power the car from a non-usb source.
+                 Electric motor of your choice.
                  
