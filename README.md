@@ -9,6 +9,6 @@ Parts required:
                  L9110S H-bridge.     
                  small 9g servo.      
                  USB charging block with two outputs.    
-                 buck converter if you power the car from a non-usb source.
+                 buck converter if you power the car from a non-usb source.   
                  Electric motor of your choice.
                  
