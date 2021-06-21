@@ -13,8 +13,10 @@ Library required:
 Parts required:       
                  ESP32 devkit or similar.    
                  L9110S H-bridge.     
-                 small 9g servo.      
+                 Small 9g servo.      
                  USB charging block with two outputs.    
-                 buck converter if you power the car from a non-usb source.   
-                 Electric motor of your choice.
+                 Buck converter if you power the car from a non-usb source.   
+                 Electric motor of your choice.   
+                 
+            
                  
