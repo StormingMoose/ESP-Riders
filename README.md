@@ -18,5 +18,5 @@ Parts required:
                  Buck converter if you power the car from a non-usb source.   
                  Electric motor of your choice.   
                  
-            
+January 2022 added a lock to the screen to stop pinch to zoom when using two buttons at once           
                  
