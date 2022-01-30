@@ -10,7 +10,7 @@ body {
 </style>
  
     <title>ESP-Riders Web Server</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <style>
       body { font-family: Times; text-align: center; margin:1px auto; padding-top: 30px; width:auto; user-select: none;}
       
