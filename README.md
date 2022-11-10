@@ -1,4 +1,4 @@
-# ESP-Riders
+# ESP-Riders   - Updated Nov 10 2022
 
 Uses an ESP32 Dev kit module to control a small cars direction and speed with a L9110S H-bridge.
 
@@ -22,4 +22,5 @@ Parts required:
                  
 January 2022 added a lock to the screen to stop pinch to zoom when using two buttons at once.
                  Works for Android phones.
+November 2022 edited to work with current Arduino IDE.  Moved the pinmode statements above the LedcAttachPin  statements.               
                  
